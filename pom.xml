@@ -9,5 +9,6 @@
 	<description>Shutdowns servers automatically to optimize cloud ressources usage</description>
 	<modules>
 		<module>../poison-shutdowner</module>
+		<module>../poison-backend</module>
 	</modules>
 </project>

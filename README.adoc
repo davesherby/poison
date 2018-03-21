@@ -1,0 +1,11 @@
+= What is this project ?
+
+Be assured a machine in any infrastructure stops itself after a given amount of time.
+
+No more monstruous amazon bill because you forgot to switch it off !
+
+This project is production ready ... but keep in mind that it's primary objective was personnal training and technological adventure of the main contributor.
+
+Good luck !
+
+
